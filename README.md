@@ -45,5 +45,47 @@ It aims to provide users with the ability to browse property listings, view deta
 ### **Importance of User-Friendly Design**
 A user-friendly booking system reduces friction in the customer journey, leading to higher conversion rates and better user satisfaction. Clear navigation, intuitive interfaces, and responsive layouts make it easier for users to search, evaluate, and complete bookings quickly. A well-designed interface builds trust, encourages repeat usage, and supports accessibility for all users.
 
+## 👥 Project Roles and Responsibilities
+
+### **Project Manager**
+- Oversees the project timeline and milestones.
+- Coordinates communication between all team members.
+- Ensures deliverables are completed on time and meet quality standards.
+
+### **Frontend Developers**
+- Implement the UI components and ensure responsive design.
+- Integrate frontend with backend APIs.
+- Maintain code quality through reusable and modular components.
+
+### **Backend Developers**
+- Design and implement RESTful APIs.
+- Manage database structure and queries.
+- Handle server-side logic, authentication, and data validation.
+
+### **Designers**
+- Create mockups and maintain the design system.
+- Ensure UX quality by following user-centered design principles.
+- Define color schemes, typography, and component styles in Figma.
+
+### **QA/Testers**
+- Write and execute test cases for features and bug fixes.
+- Perform unit, integration, and end-to-end testing.
+- Report and track bugs through the development cycle.
+
+### **DevOps Engineers**
+- Set up and maintain deployment environments.
+- Implement CI/CD pipelines for automated builds and testing.
+- Monitor server performance and ensure scalability.
+
+### **Product Owner**
+- Define product requirements and prioritize features.
+- Act as the voice of the stakeholders and end users.
+- Ensure the final product aligns with the business goals.
+
+### **Scrum Master**
+- Facilitate Agile processes and daily stand-ups.
+- Remove blockers to keep the team productive.
+- Organize sprint planning, reviews, and retrospectives.
+
 
 © 2025 AirBnB Clone Project Team
