@@ -14,7 +14,7 @@ It aims to provide users with the ability to browse property listings, view deta
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (React or similar framework)
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB / PostgreSQL (to be confirmed)
+- **Database:** MongoDB / PostgreSQL
 - **Version Control:** Git & GitHub
 - **Design Tools:** Figma for UI/UX design
 - **Deployment:** Vercel / Netlify (frontend), Render / Railway (backend)
