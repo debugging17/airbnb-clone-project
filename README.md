@@ -87,5 +87,34 @@ A user-friendly booking system reduces friction in the customer journey, leading
 - Remove blockers to keep the team productive.
 - Organize sprint planning, reviews, and retrospectives.
 
+## 🧩 UI Component Patterns
+
+To ensure reusability, consistency, and maintainability across the application, we will build a set of core UI components.
+
+### **Planned Components**
+
+#### **Navbar**
+- Contains the site logo, search bar, and user navigation.
+- Includes a responsive menu for mobile devices.
+- Provides quick access to login, signup, and account settings.
+
+#### **Property Card**
+- Displays property image, price, location, and rating.
+- Includes a “favorite” button for saving properties.
+- Designed to be responsive in grid and list views.
+
+#### **Footer**
+- Contains site navigation links, company information, and social media icons.
+- Displays copyright.
+- Maintains a consistent design across all pages.
+
+---
+
+Each component will be:
+- **Reusable**: Built to work across multiple pages with minimal changes.
+- **Responsive**: Optimized for desktop, tablet, and mobile.
+- **Accessible**: Compliant with WCAG guidelines.
+
+
 
 © 2025 AirBnB Clone Project Team
